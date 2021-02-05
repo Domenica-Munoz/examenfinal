@@ -40,4 +40,5 @@ public class CajeroDao {
 	return em.find(Cajero.class, cedula);
 	 
  }
+ 
 }
